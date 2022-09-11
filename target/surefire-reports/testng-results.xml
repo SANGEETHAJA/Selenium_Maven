@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39424" started-at="2022-09-10T13:06:25 IST" finished-at="2022-09-10T13:07:04 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39424" started-at="2022-09-10T13:06:25 IST" finished-at="2022-09-10T13:07:04 IST">
+      <class name="testcases.HomeTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:testcases.HomeTest@23faf8f2]" name="Setup" is-config="true" duration-ms="6987" started-at="2022-09-10T13:06:54 IST" finished-at="2022-09-10T13:07:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:testcases.HomeTest@23faf8f2]" name="test1" duration-ms="1" started-at="2022-09-10T13:07:01 IST" finished-at="2022-09-10T13:07:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.HomeTest@23faf8f2]" name="TearDown" is-config="true" duration-ms="2772" started-at="2022-09-10T13:07:01 IST" finished-at="2022-09-10T13:07:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testcases.HomeTest -->
+      <class name="testcases.SimplillearnLoginTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:testcases.SimplillearnLoginTest@3d99d22e]" name="Setup" is-config="true" duration-ms="12300" started-at="2022-09-10T13:06:25 IST" finished-at="2022-09-10T13:06:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:testcases.SimplillearnLoginTest@3d99d22e]" name="Test1" duration-ms="16216" started-at="2022-09-10T13:06:37 IST" finished-at="2022-09-10T13:06:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.SimplillearnLoginTest@3d99d22e]" name="TearDown" is-config="true" duration-ms="1064" started-at="2022-09-10T13:06:53 IST" finished-at="2022-09-10T13:06:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testcases.SimplillearnLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
