@@ -6,8 +6,9 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import testcases.BaseClass1;
+import testcases.BaseClass4ExtentReports;
 
-public class LoginPage2 extends BaseClass1
+public class LoginPage2 extends BaseClass4ExtentReports
 {
 
 	WebDriver driver;
